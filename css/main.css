@@ -1,0 +1,77 @@
+body {
+    background-color: #E8E8E8;
+    margin: 0;
+}
+
+.large-block {
+    height: 430px;
+    padding: 70px 40px;
+
+}
+
+.small-block {
+    height: 210px;
+    padding: 20px 40px;
+
+}
+.block {
+    float: left;
+    width: 400px;
+    box-sizing: border-box;
+}
+
+#vision-board {
+    margin: 50px auto;
+    font-size: 20px;
+    width: 1200px;
+    height: 850px;
+    background-image: url('../img/background.png');
+    background-size: cover;
+    overflow: auto;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+.light-bg{
+background-color: #F6E4E6;
+}
+
+.dark-bg{
+background-color: #3B3B3B;
+color: #ffffff;
+}
+
+.newyear{
+height: 177px;
+width: 146px;
+}
+
+.title{
+    font-size: 30px;
+}
+
+.marker{
+    font-family: 'Permanent Marker', cursive;
+    font-weight: normal;
+}
+
+.highlight{
+    background-color: #FFF44F;
+}
+
+strong{
+    font-size: 38px;
+    text-transform: none;
+}
+
+
+
+
